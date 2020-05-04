@@ -1,0 +1,15 @@
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.StringExtensions.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.AsteriskPhoneAgentForm.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.fmAbout.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.fmHistory.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.fmPreference.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.NewCallerQForm.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.NoteForm.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.Properties.Resources.resources
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.csproj.GenerateResource.Cache
+C:\_AsterPhoneAgent\setup\AsteriskPhoneAgent.exe.config
+C:\_AsterPhoneAgent\setup\AsteriskPhoneAgent.exe
+C:\_AsterPhoneAgent\setup\AsteriskPhoneAgent.pdb
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.csprojResolveAssemblyReference.cache
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.exe
+C:\_AsterPhoneAgent\AsteriskPhoneAgent\AsteriskPhoneAgent\obj\APA_64\AsteriskPhoneAgent.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AsteriskNotifier.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.68.51.130</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5038</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AsterNotify</Value>
+    </Setting>
+    <Setting Name="MyNumber" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SIP/1000</Value>
+    </Setting>
+    <Setting Name="OriginateContext" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">from-internal</Value>
+    </Setting>
+    <Setting Name="OriginatePriority" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="OriginateTimeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15000</Value>
+    </Setting>
+    <Setting Name="OnlyImportant" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

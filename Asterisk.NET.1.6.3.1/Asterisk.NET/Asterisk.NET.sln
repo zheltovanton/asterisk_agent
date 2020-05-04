@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asterisk.NET", "Asterisk.NET.csproj", "{BC6E7DBA-C05A-45FE-A2A3-B1637CE16274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6E7DBA-C05A-45FE-A2A3-B1637CE16274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6E7DBA-C05A-45FE-A2A3-B1637CE16274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6E7DBA-C05A-45FE-A2A3-B1637CE16274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6E7DBA-C05A-45FE-A2A3-B1637CE16274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+ 04.19.2016 02:05:01 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.19.2016 02:05:25 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.19.2016 02:07:35 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.19.2016 02:08:07 : Error: Manager connection NOT aviable.Timeout waiting for protocol identifier
+04.20.2016 11:01:15 : Error: Manager connection NOT aviable.Timeout waiting for protocol identifier
+04.20.2016 11:01:31 : Error: Mainform: Manager connection NOT aviable.Unable to connect to any of the specified MySQL hosts.
+04.20.2016 11:01:31 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+04.20.2016 11:01:31 : Error: Peer 'SIP/101' not registered. Originate calls not aviable!
+04.20.2016 11:09:22 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.20.2016 11:09:33 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.20.2016 11:09:48 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.20.2016 11:09:55 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+04.20.2016 11:10:04 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+03.09.2017 08:30:26 : Error: Prefs: Manager password trouble.Параметр задан неверно.
+
+03.09.2017 08:30:39 : Manager connection aviable. Peer 'SIP/101
+03.09.2017 08:30:55 : Error: Mainform: Manager connection NOT aviable.Unable to connect to any of the specified MySQL hosts.
+03.09.2017 08:30:55 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+03.09.2017 08:30:55 : Error: Peer 'SIP/101' not registered. Originate calls not aviable!
+03.09.2017 08:31:25 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+03.09.2017 08:31:40 : Error:  Unable to connect to any of the specified MySQL hosts.
+03.09.2017 08:31:55 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+03.09.2017 08:32:10 : Error:  Unable to connect to any of the specified MySQL hosts.
+03.09.2017 08:32:25 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+03.09.2017 08:32:35 : Manager connection aviable. Peer 'SIP/101
+03.09.2017 08:32:40 : Error:  Unable to connect to any of the specified MySQL hosts.
+03.09.2017 08:32:50 : Error: Mainform: Manager connection NOT aviable.Unable to connect to any of the specified MySQL hosts.
+03.09.2017 08:32:50 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+03.09.2017 08:32:50 : Error: Peer 'SIP/101' not registered. Originate calls not aviable!
+03.09.2017 08:32:55 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.
+03.09.2017 08:33:10 : Error:  Unable to connect to any of the specified MySQL hosts.
+03.09.2017 08:33:20 : Error: CallerPhoneWork:  Unable to send Ping action: not connected.

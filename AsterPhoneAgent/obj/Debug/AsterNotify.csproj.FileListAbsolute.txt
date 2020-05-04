@@ -1,0 +1,15 @@
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\Asterisk.NET.dll
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsterNotify.csproj.GenerateResource.Cache
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\MySql.Data.dll
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\AsteriskNotifier.exe.config
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\AsteriskNotifier.exe
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\AsteriskNotifier.pdb
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\AsteriskNotifier.exe.CodeAnalysisLog.xml
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\bin\Debug\AsteriskNotifier.exe.lastcodeanalysissucceeded
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsteriskNotifier.exe
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsteriskNotifier.pdb
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsteriskNotifierForm.AsteriskNotifierForm.resources
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsteriskNotifierForm.EditCallerForm.resources
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsteriskNotifierForm.NewCallerQForm.resources
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsterNotify.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Work\Asterisk\AsterNotify\AsterNotify\obj\Debug\AsterNotify.Properties.Resources.resources

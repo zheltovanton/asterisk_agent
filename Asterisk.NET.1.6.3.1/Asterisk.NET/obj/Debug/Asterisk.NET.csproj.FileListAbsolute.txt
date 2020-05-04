@@ -1,0 +1,10 @@
+d:\SkyDrive\Work\Asterisk\Asterisk.NET.1.6.3.1\Asterisk.NET\bin\Debug\Asterisk.NET.dll
+d:\SkyDrive\Work\Asterisk\Asterisk.NET.1.6.3.1\Asterisk.NET\bin\Debug\Asterisk.NET.pdb
+d:\SkyDrive\Work\Asterisk\Asterisk.NET.1.6.3.1\Asterisk.NET\obj\Debug\Asterisk.NET.csprojResolveAssemblyReference.cache
+d:\SkyDrive\Work\Asterisk\Asterisk.NET.1.6.3.1\Asterisk.NET\obj\Debug\Asterisk.NET.dll
+d:\SkyDrive\Work\Asterisk\Asterisk.NET.1.6.3.1\Asterisk.NET\obj\Debug\Asterisk.NET.pdb
+C:\_AsteriskPhoneAgent\Asterisk.NET.1.6.3.1\Asterisk.NET\bin\Debug\Asterisk.NET.dll
+C:\_AsteriskPhoneAgent\Asterisk.NET.1.6.3.1\Asterisk.NET\bin\Debug\Asterisk.NET.pdb
+C:\_AsteriskPhoneAgent\Asterisk.NET.1.6.3.1\Asterisk.NET\obj\Debug\Asterisk.NET.csprojResolveAssemblyReference.cache
+C:\_AsteriskPhoneAgent\Asterisk.NET.1.6.3.1\Asterisk.NET\obj\Debug\Asterisk.NET.dll
+C:\_AsteriskPhoneAgent\Asterisk.NET.1.6.3.1\Asterisk.NET\obj\Debug\Asterisk.NET.pdb

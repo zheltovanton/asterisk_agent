@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.756</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-00D40925FC2</Company_UIN>
+    <Company_Description>xtelekom</Company_Description>
+    <Product_UIN>APP-00D416F78A2</Product_UIN>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <Search_String>AsteriskNotifier</Search_String>
+    <RSProductType></RSProductType>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Search_String_Unique></Search_String_Unique>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>X telekom</Company_Name>
+    <Address_1>12, 9А1С1, Novokosinskaya st.</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Moscow</City_Town>
+    <State_Province></State_Province>
+    <Zip_Postal_Code>100000</Zip_Postal_Code>
+    <Country>United States of America</Country>
+    <Company_WebSite_URL>http://xtelekom.ru/</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Anton</Contact_First_Name>
+      <Contact_Last_Name>Zheltov</Contact_Last_Name>
+      <Contact_Email>client@xtelekom.ru</Contact_Email>
+      <Author_Email>client@xtelekom.ru</Author_Email>
+      <Author_First_Name>Anton</Author_First_Name>
+      <Author_Last_Name>Zheltov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>client@xtelekom.ru</Sales_Email>
+      <Support_Email>client@xtelekom.ru</Support_Email>
+      <General_Email>client@xtelekom.ru</General_Email>
+      <Sales_Phone>84996383947</Sales_Phone>
+      <Support_Phone>84996383947</Support_Phone>
+      <General_Phone>84996383947</General_Phone>
+      <Fax_Phone>84996383947</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>client@xtelekom.ru</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Anton</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Zheltov</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Program_Info>
+    <Program_Name>AsteriskNotifier</Program_Name>
+    <Program_Version>1.0.9</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>05</Program_Release_Day>
+    <Program_Release_Year>2013</Program_Release_Year>
+    <Program_Cost_Dollars>100</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>RUB</Program_Cost_Other_Code>
+    <Program_Cost_Other>3200</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,WinVista,WinVista x64,Win7 x32,Win7 x64,Win2000,Windows2000,Windows2003,Windows Vista Ultimate,Windows Vista Ultimate x64,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64</Program_OS_Support>
+    <Program_Language>Russian</Program_Language>
+    <Program_System_Requirements>1Gz+ cpu</Program_System_Requirements>
+    <Program_Category_Class>Communications::Telephony</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>349457</File_Size_Bytes>
+      <File_Size_K>341</File_Size_K>
+      <File_Size_MB>0.33</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>asterisk,voip,Telephony,Communications</Program_Categories>
+    <Limitations>1 free license</Limitations>
+    <Program_Change_Info></Program_Change_Info>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://xtelekom.ru/AsteriskNotifier_buy</Application_Info_URL>
+      <Application_Order_URL>http://xtelekom.ru/AsteriskNotifier_buy</Application_Order_URL>
+      <Application_Screenshot_URL>http://xtelekom.ru/AsteriskNotifier_screenshot</Application_Screenshot_URL>
+      <Application_Icon_URL>http://xtelekom.ru/image/data/asterisknotifier_logo.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://xtelekom.ru/astcrm/AsteriskNotifier_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://xtelekom.ru/AsteriskNotifier</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions></Distribution_Permissions>
+    <EULA></EULA>
+  </Permissions>
+  <Program_Descriptions>
+    <English>
+      <Keywords>manage a list of asterisk contacts</Keywords>
+      <Char_Desc_45>manage a list of asterisk contacts</Char_Desc_45>
+      <Char_Desc_80>manage a list of contacts with the ability to dial the number</Char_Desc_80>
+      <Char_Desc_250>Manage a list of contacts with the ability to dial the number and identify incoming calls. Integrates with Asterisk IP PBX and you can call a person by simply clicking on a phone number. When an incoming call pops up a card party with all its data.</Char_Desc_250>
+      <Char_Desc_450>AsteriskNotifier program is a proprietary company "X telekom" and is designed to manage a list of contacts with the ability to dial the number and identify incoming calls. Integrates with Asterisk IP PBX and you can call a person by simply clicking on a phone number. When an incoming call pops up a card party with all its data.</Char_Desc_450>
+      <Char_Desc_2000>AsteriskNotifier program is a proprietary company "X telekom" and is designed to manage a list of contacts with the ability to dial the number and identify incoming calls. Integrates with Asterisk IP PBX and you can call a person by simply clicking on a phone number. When an incoming call pops up a card party with all its data.
+
+What is the program AsteriskNotifier?
+
+AsteriskNotifier will save time for the customer service manager. Manager will be able to talk to many clients. During the communication, the manager will be able to place the subscriber information in the directory, add new data, send a letter to the client.
+
+The main features of the program
+
+The contact list is synchronized between all clients on the network automatically.
+Contacts in the directory are 3 types: normal, personal and important. When a call is connected with the sign of "important" pop-up window is highlighted in red to attract attention. Contact with the sign "personal" are shown only to the subscriber who established this feature.
+The program does not have the server side, only stores the data in the database MySQL, which is commonly used and Asterisk.
+Program settings contain password to access the server are encrypted and are not stored in clear text on the subscriber.
+Calls can see current time conversation.
+You can set up sync contacts database with your CRM.
+A quick search through the list of contacts.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>управление контактами, asterisk</Keywords>
+      <Char_Desc_45>управление списком контактов asterisk</Char_Desc_45>
+      <Char_Desc_80>управление списком контактов с возможностью набора номера и определения входящих</Char_Desc_80>
+      <Char_Desc_250>Предназначена для управления списком контактов с возможностью набора номера и определения входящих вызовов. Интегрируется с IP АТС Asterisk и Вы можете позвонить человеку просто нажав на номер телефона</Char_Desc_250>
+      <Char_Desc_450>Программа AsteriskNotifier является собственной разработкой компании "Икс телеком" и предназначена для управления списком контактов с возможностью набора номера и определения входящих вызовов. Интегрируется с IP АТС Asterisk и Вы можете позвонить человеку просто нажав на номер телефона. При входящем звонке всплывает карточка абонента со всеми его данными.</Char_Desc_450>
+      <Char_Desc_2000>​Программа AsteriskNotifier является собственной разработкой компании "Икс телеком" и предназначена для управления списком контактов с возможностью набора номера и определения входящих вызовов. Интегрируется с IP АТС Asterisk и Вы можете позвонить человеку просто нажав на номер телефона. При входящем звонке всплывает карточка абонента со всеми его данными. 
+
+Для чего нужна программа AsteriskNotifier? 
+
+AsteriskNotifier даст экономию времени менеджера для обслуживании клиента. Менеджер сможет поговорить с большим количеством клиентов. Во время общения, менеджер сможет занести информацию об абоненте в справочник, добавить новые данные, отправить письмо клиенту.
+
+Основные особенности программы
+
+Список контактов синхронизируется между всеми клиентами в сети автоматически.
+Контакты в справочнике бывают 3х типов: обычные, личные и важные. При поступлении звонка абонента с признаком "важный" всплывающее окно выделено красным цветом для привлечения внимания. Контакты с признаком "личный" показываются только абоненту который установил данный признак.
+​Программа не имеет серверной части, только хранит данные в БД MySQL, которую обычно использует и Asterisk.
+Настройки программы содержащие пароли доступа к серверу шифруются и не хранятся в открытом виде у абонента.
+При звонке видно текущее время разговора.
+Возможна настройка синхронизации база данных контактов с вашей CRM.
+Быстрый поиск по списку контактов.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

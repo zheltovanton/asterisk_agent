@@ -1,0 +1,16 @@
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\bin\Debug\AsterPhoneAgent.exe.config
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\bin\Debug\AsterPhoneAgent.exe
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\bin\Debug\AsterPhoneAgent.pdb
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\bin\Debug\Asterisk.NET.dll
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\bin\Debug\Asterisk.NET.pdb
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgent.csprojResolveAssemblyReference.cache
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgentForm.EditCallerForm.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgentForm.AsterPhoneAgentForm.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgentForm.fmAbout.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgentForm.fmPreference.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgentForm.NewCallerQForm.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgentForm.NoteForm.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgent.Properties.Resources.resources
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgent.csproj.GenerateResource.Cache
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgent.exe
+C:\_AsterPhoneAgent\AsterPhoneAgent\AsterPhoneAgent\obj\Debug\AsterPhoneAgent.pdb
